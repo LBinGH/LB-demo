@@ -1,4 +1,4 @@
 # LB-demo
 This is my first Git Repository
-<br> #next line
+<br>
 Author - Likhitha Bhavana
